@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hE67jCdiOV5MKLTHEyeUqvK4NwdYdVPvQCb7QXzysJvKCO7R1JIYyhp0sUsWCmicW2oo6MD9/sUyntFUEEhMYg==",
+  "success": true,
+  "projectFilePath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Addisalem\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

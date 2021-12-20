@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj": {}
+    "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {}
   },
   "projects": {
-    "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj": {
+    "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj",
-        "projectName": "Microrabbit.Domain.Core",
-        "projectPath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj",
+        "projectUniqueName": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+        "projectName": "MicroRabbit.Domain.Core",
+        "projectPath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Addisalem\\.nuget\\packages\\",
-        "outputPath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\obj\\",
+        "outputPath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

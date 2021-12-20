@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbymcQdTmEULSL+lM0qQ/SMoTJqx+lJzcZEsGjxQP4CK9YPPEQDvF0CSjhCEKTjc79T7AB45FmXqa5M1aY4rOA==",
+  "success": true,
+  "projectFilePath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Addisalem\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Addisalem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Addisalem\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Addisalem\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Addisalem\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
