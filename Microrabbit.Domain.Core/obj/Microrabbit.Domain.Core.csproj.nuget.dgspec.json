@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj",
+        "projectName": "Microrabbit.Domain.Core",
+        "projectPath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\Microrabbit.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\Addisalem\\.nuget\\packages\\",
+        "outputPath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\RabbitMQSample\\MicroRabbitMq\\Microrabbit.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Addisalem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/ClNagZ62Ycgjfe2aGeQ1f7QV7wfqwGATAFHUw58f6fkgrjqitz/api": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

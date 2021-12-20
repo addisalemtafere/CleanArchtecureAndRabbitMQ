@@ -1,0 +1,12 @@
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\bin\Debug\net5.0\Microrabbit.Domain.Core.deps.json
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\bin\Debug\net5.0\Microrabbit.Domain.Core.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\bin\Debug\net5.0\ref\Microrabbit.Domain.Core.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\bin\Debug\net5.0\Microrabbit.Domain.Core.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\Microrabbit.Domain.Core.csprojAssemblyReference.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\Microrabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\Microrabbit.Domain.Core.AssemblyInfoInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\Microrabbit.Domain.Core.AssemblyInfo.cs
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\Microrabbit.Domain.Core.csproj.CoreCompileInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\Microrabbit.Domain.Core.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\ref\Microrabbit.Domain.Core.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\RabbitMQSample\MicroRabbitMq\Microrabbit.Domain.Core\obj\Debug\net5.0\Microrabbit.Domain.Core.pdb
