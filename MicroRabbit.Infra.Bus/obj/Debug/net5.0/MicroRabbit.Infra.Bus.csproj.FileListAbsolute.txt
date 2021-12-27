@@ -1,0 +1,15 @@
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net5.0\MicroRabbit.Infra.Bus.deps.json
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net5.0\MicroRabbit.Infra.Bus.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net5.0\ref\MicroRabbit.Infra.Bus.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net5.0\MicroRabbit.Infra.Bus.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.csproj.CopyComplete
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\ref\MicroRabbit.Infra.Bus.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.Bus\obj\Debug\net5.0\MicroRabbit.Infra.Bus.pdb

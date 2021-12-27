@@ -1,0 +1,12 @@
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.deps.json
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\ref\MicroRabbit.Banking.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\ref\MicroRabbit.Banking.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
