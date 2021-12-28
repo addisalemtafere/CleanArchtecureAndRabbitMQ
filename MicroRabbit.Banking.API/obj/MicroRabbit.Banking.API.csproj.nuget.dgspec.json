@@ -266,7 +266,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EXHTaWt8mDmuZ9/RH2DXPiSsLomu7LwXvR2WN1s3lhp3Ze6zlb1FH6jZmvObwE5oFp67cqBNl8QAKkgxL/i3Vg==",
+  "dgSpecHash": "HiVwVjA1eDKcVyEDYUle5UWPCAhq5zvUQyGEQxNSUi94DI/I3l4Bcl1yT8Z/PkWnA7WEHSOxg5bwVIbQko+1ZA==",
   "success": true,
   "projectFilePath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Addisalem\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Addisalem\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Addisalem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Addisalem\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\Addisalem\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",

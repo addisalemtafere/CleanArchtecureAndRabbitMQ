@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cbypiDNvU9sNcWbe9lbgs9NMks5Ma74o4krn/B0/4vqg/PoutyhsSZbR4Kg0XHaCcjVd4Xjem1zjRALnfTFG9w==",
+  "dgSpecHash": "D6TY8anFPK38+3KkOFZi5bsgu7okD1Xl/zcGDKNQmGJldqEb6GQPE9drURnM6DVSgiQF79RejYCZyzrbeTVeiQ==",
   "success": true,
   "projectFilePath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Addisalem\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

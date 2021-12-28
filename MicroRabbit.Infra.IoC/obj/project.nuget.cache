@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GEeAOjEWWTkgzcgvDrSYwznX0lUMXCBuZABD/a6B+WY1K0qa3L0uLw2iziEiWHaJOJpjvJujTGRicPQfOhOFzQ==",
+  "dgSpecHash": "54LsED3A5KBqNk8hA+8skWx8KUudettyWS6Ue8XDIe1E52Wc42ekHc4FLvO0KM1m1B5fWh66thPyJ2+IvYAm9A==",
   "success": true,
   "projectFilePath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Infra.IoC\\MicroRabbit.Infra.IoC.csproj",
   "expectedPackageFiles": [

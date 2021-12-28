@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eYzdf/YnFMduqxhmjC6+luw+c+x5Vd5R4GnyhaVHSBjnTZPqv019Q/uXS6/kiU8rMAidOV3R/xj4xg9p9HVDkQ==",
+  "dgSpecHash": "Wju849haQUhxlHgaoHw3XK63+234iekoPVb34pdTbjfP8PCJh/EC7r90vzS3gj1JessacUIWYP0Htjz4axrHcQ==",
   "success": true,
   "projectFilePath": "D:\\tuturial\\C# Microservice\\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\\CleanArchtecureAndRabbitMQ\\MicroRabbit.Banking.API\\MicroRabbit.Banking.API.csproj",
   "expectedPackageFiles": [
