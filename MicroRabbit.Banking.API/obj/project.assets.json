@@ -1686,13 +1686,58 @@
           "MicroRabbit.Banking.Domain": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Bus": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection": "6.0.0"
+          "Microsoft.Extensions.DependencyInjection": "6.0.0",
+          "MiroRabbit.Transfer.Application": "1.0.0",
+          "MiroRabbit.Transfer.Data": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MicroRabbit.Infra.IoC.dll": {}
         },
         "runtime": {
           "bin/placeholder/MicroRabbit.Infra.IoC.dll": {}
+        }
+      },
+      "MiroRabbit.Transfer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0",
+          "MiroRabbit.Transfer.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MiroRabbit.Transfer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiroRabbit.Transfer.Application.dll": {}
+        }
+      },
+      "MiroRabbit.Transfer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0",
+          "MiroRabbit.Transfer.Domain": "1.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "5.0.0",
+          "Npgsql.EntityFrameworkCore.PostgreSQL.Design": "1.1.0"
+        },
+        "compile": {
+          "bin/placeholder/MiroRabbit.Transfer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiroRabbit.Transfer.Data.dll": {}
+        }
+      },
+      "MiroRabbit.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MiroRabbit.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiroRabbit.Transfer.Domain.dll": {}
         }
       }
     }
@@ -5759,6 +5804,21 @@
       "type": "project",
       "path": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj",
       "msbuildProject": "../MicroRabbit.Infra.IoC/MicroRabbit.Infra.IoC.csproj"
+    },
+    "MiroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
+      "path": "../MiroRabbit.Transfer.Application/MiroRabbit.Transfer.Application.csproj",
+      "msbuildProject": "../MiroRabbit.Transfer.Application/MiroRabbit.Transfer.Application.csproj"
+    },
+    "MiroRabbit.Transfer.Data/1.0.0": {
+      "type": "project",
+      "path": "../MiroRabbit.Transfer.Data/MiroRabbit.Transfer.Data.csproj",
+      "msbuildProject": "../MiroRabbit.Transfer.Data/MiroRabbit.Transfer.Data.csproj"
+    },
+    "MiroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MiroRabbit.Transfer.Domain/MiroRabbit.Transfer.Domain.csproj",
+      "msbuildProject": "../MiroRabbit.Transfer.Domain/MiroRabbit.Transfer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

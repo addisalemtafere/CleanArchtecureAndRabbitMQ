@@ -1,0 +1,15 @@
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\bin\Debug\net5.0\MiroRabbit.Transfer.Domain.deps.json
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\bin\Debug\net5.0\MiroRabbit.Transfer.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\bin\Debug\net5.0\ref\MiroRabbit.Transfer.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\bin\Debug\net5.0\MiroRabbit.Transfer.Domain.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.csprojAssemblyReference.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.AssemblyInfo.cs
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.csproj.CoreCompileInputs.cache
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\ref\MiroRabbit.Transfer.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MiroRabbit.Transfer.Domain\obj\Debug\net5.0\MiroRabbit.Transfer.Domain.csproj.CopyComplete

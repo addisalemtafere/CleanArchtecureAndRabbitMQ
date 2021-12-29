@@ -21,3 +21,9 @@ D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microser
 D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net5.0\MicroRabbit.Infra.IoC.dll
 D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net5.0\ref\MicroRabbit.Infra.IoC.dll
 D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\obj\Debug\net5.0\MicroRabbit.Infra.IoC.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net5.0\MiroRabbit.Transfer.Data.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net5.0\MiroRabbit.Transfer.Data.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net5.0\MiroRabbit.Transfer.Application.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net5.0\MiroRabbit.Transfer.Domain.dll
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net5.0\MiroRabbit.Transfer.Application.pdb
+D:\tuturial\C# Microservice\[Tutsgalaxy.com] -Getting Started .NET Core Microservices RabbitMQ\CleanArchtecureAndRabbitMQ\MicroRabbit.Infra.IoC\bin\Debug\net5.0\MiroRabbit.Transfer.Domain.pdb
